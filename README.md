@@ -66,12 +66,6 @@ Desarrollador de Sistemas Web Full Stack especializado en el diseño y optimizac
 
 ---
 
-## 📊 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=vision-friendly-dark)
-
----
-
 ## 📫 Contacto
 
 * 💼 **LinkedIn:** [linkedin.com/in/oziel-alexander-canales-andraca-419a60300](https://www.linkedin.com/in/oziel-alexander-canales-andraca-419a60300)
