@@ -40,11 +40,11 @@ Desarrollador de Sistemas Web Full Stack especializado en el diseño y optimizac
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
 </p>
 
-* **DB:** MySQL, PostgreSQL, Redis, Elasticsearch, Firebase.
+* **DB:** MySQL, PostgreSQL, Firebase.
 * **Especialidad:** Procedimientos almacenados, Triggers, Normalización (3FN) e Integridad Transaccional.
 * **Seguridad:** Control de acceso por roles (RBAC) y Encriptación de datos.
 
