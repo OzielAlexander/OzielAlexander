@@ -1,6 +1,6 @@
 # 👋 Hola, soy Oziel Alexander Canales Andraca
 
-💻 **Desarrollador Full Stack** 📍 Chilpancingo, Guerrero, México | 🌎 Abierto a oportunidades remotas
+💻 **Desarrollador Full Stack** 📍 Ciudad de México, Estado de México, México | 🌎 Abierto a oportunidades presenciales, hibridas y remotas
 
 ---
 
